@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.wel {
+    color: white;
+    font-size: 144px;
+    padding: 20px;
+    margin: 30px;
+}
+
+.am {
+    margin-bottom: 20px;
+}
+
+.cont {
+    background-color: #0f3342;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cont2 {
+    background-color: #00000;
+    height: 100vh;
+    background-size: cover;
+}
+
+.cont3 {
+    background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700838769/apex-bi-fold-front_buzqhp.jpg");
+    height: 50vh;
+    background-size: cover;
+
+}
+
+.img {
+    height: 15vh;
+    width: 30vh;
+    margin: 5px;
+    padding: 15px;
+}
+
+.container {
+    background-image: url("https://res.cloudinary.com/dnvtmquxq/image/upload/v1700469366/build_shnroa.png");
+    background-size: cover;
+    height: 100vh;
+    background-position: center;
+}
+
+.buttonw {
+    width: 400px;
+    height: 150px;
+    margin: 80px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: white;
+    border: 20px;
+    border-color: black;
+    color: black;
+    padding: 10px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 48px;
+}
+
+.cont2 {
+    background-color: white;
+    height: 100vh;
+}
+
+.buttons {
+    width: 420px;
+    margin: 60px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 20px;
+    border-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 64px;
+    background: linear-gradient(120DEG, #3B5998, #FFFFFF)
+}
+
+.buttonb {
+    margin-top: 50px;
+    color: white;
+    background-color: #5A5A5A;
+    border-radius: 5px;
+    border-color: black;
+    font-size: 32px;
+}
+
+.buttoni {
+    width: 420px;
+    margin: 30px;
+    border-style: solid;
+    border-radius: 15px;
+    background-color: transparent;
+    border: 20px;
+    border-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 64px;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
+}
